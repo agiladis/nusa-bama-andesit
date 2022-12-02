@@ -16,8 +16,6 @@ class Footer extends HTMLElement {
                             <li class="list-inline-item">⋅</li>
                             <li class="list-inline-item"><a href="produk-pemasaran.html">Produk Pemasaran</a></li>
                             <li class="list-inline-item">⋅</li>
-                            <li class="list-inline-item"><a href="kontrak-kerjasama.html">Kontrak Kerjasama</a></li>
-                            <li class="list-inline-item">⋅</li>
                             <li class="list-inline-item"><a href="csr.html">CSR</a></li>
                         </ul>
                         <p class="text-muted small mb-4 mb-lg-0">&copy; Your Website 2022. All Rights Reserved.</p>
