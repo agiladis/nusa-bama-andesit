@@ -6,7 +6,7 @@ class NavBar extends HTMLElement {
     render() {
         this.innerHTML = `
         <nav class="navbar navbar-light bg-light static-top">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="index.html">
                 <img src="assets/img/logo.png" width="150" height="" alt="">
             </a>
         </nav>
